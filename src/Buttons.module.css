@@ -1,0 +1,9 @@
+.buttons button{
+    border: black 2px solid;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+.buttonWrap{
+    padding-top: 2vh;
+}
